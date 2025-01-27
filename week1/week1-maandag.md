@@ -185,7 +185,7 @@
    > "blij" _smiley_
 
    Datum: [23/01/2025]
-   Studentnaam: [Elias Gillot]
+   Studentnaam: `[Elias Gillot]`
    Groepsnaam: [MEELS]
 
 ---
@@ -213,7 +213,7 @@
 ---
 
 Datum: [24/01/2025]
-Studentnaam: [Elias Gillot]
+Studentnaam: `[Elias Gillot]`
 Groepsnaam: [MEELS]
 
 ---
